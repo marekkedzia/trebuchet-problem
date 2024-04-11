@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.12.5",
+    "fs": "^0.0.1-security",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-opaque": "^3.0.1",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  }
+}
